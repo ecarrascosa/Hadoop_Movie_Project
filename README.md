@@ -17,11 +17,11 @@ FIles included:
 - Mapper function
 - Reducer function
 - Driver code
-Java Scrapper
-movie.txt (Output from the Java Scrapper containing movie name and day of the year)
-revenue.txt (file containing movie name and gross revenue for 2018)
-Screenshot of Reducer output (movie name, gross revenue, # of days in top spot)
-Screenshot of Counter output
+- Java Scrapper
+- movie.txt (Output from the Java Scrapper containing movie name and day of the year)
+- revenue.txt (file containing movie name and gross revenue for 2018)
+- Screenshot of Reducer output (movie name, gross revenue, # of days in top spot)
+- Screenshot of Counter output
 
 
 
