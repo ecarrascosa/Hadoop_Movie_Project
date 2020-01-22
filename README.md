@@ -14,9 +14,9 @@ The reduce function finds the average gross revenue per movie in 2018 as well as
 
 FIles included:
 
-Mapper function
-Reducer function
-Driver code
+- Mapper function
+- Reducer function
+- Driver code
 Java Scrapper
 movie.txt (Output from the Java Scrapper containing movie name and day of the year)
 revenue.txt (file containing movie name and gross revenue for 2018)
